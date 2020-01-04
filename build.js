@@ -13395,7 +13395,7 @@ __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].use(__WEBPACK_IMPORTED_MODU
 
 /* harmony default export */ __webpack_exports__["a"] = (new __WEBPACK_IMPORTED_MODULE_1_vuex__["a" /* default */].Store({
   state: {
-    forSale: [{ invId: 1, name: 'Lorem Ipsum', image: '../img/1.jpg', price: 388 }, { invId: 2, name: 'Thing', image: '../img/2.jpg', price: 90 }, { invId: 3, name: 'Thing', image: '../img/3.jpg', price: 300 }, { invId: 4, name: 'An Item', image: '../img/4.jpg', price: 180 }, { invId: 5, name: 'An Item', image: '../img/5.jpg', price: 278 }, { invId: 6, name: 'Thing', image: '../img/6.jpg', price: 378 }, { invId: 7, name: 'Thing', image: '../img/7.jpg', price: 500 }, { invId: 8, name: 'An Item', image: '../img/8.jpg', price: 200 }, { invId: 9, name: 'An Item', image: '../img/9.jpg', price: 370 }],
+    forSale: [{ invId: 1, name: 'Lorem Ipsum', image: 'img/1.jpg', price: 388 }, { invId: 2, name: 'Thing', image: 'img/2.jpg', price: 90 }, { invId: 3, name: 'Thing', image: 'img/3.jpg', price: 300 }, { invId: 4, name: 'An Item', image: 'img/4.jpg', price: 180 }, { invId: 5, name: 'An Item', image: 'img/5.jpg', price: 278 }, { invId: 6, name: 'Thing', image: 'img/6.jpg', price: 378 }, { invId: 7, name: 'Thing', image: 'img/7.jpg', price: 500 }, { invId: 8, name: 'An Item', image: 'img/8.jpg', price: 200 }, { invId: 9, name: 'An Item', image: 'img/9.jpg', price: 370 }],
     inCart: []
   },
   getters: {
