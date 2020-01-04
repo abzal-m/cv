@@ -1,0 +1,174 @@
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+li{
+	list-style-type: none;
+}
+header{
+	background: #74afc8;
+	height: 43px;
+}
+header ul{
+	padding-top: 7px;
+	width: 1024px;
+	display: flex;
+	justify-content: flex-end;
+	margin: 0 auto;
+}
+header ul li{
+	margin-right: 15px;
+	padding-right: 15px;
+	border-right: 1px solid white;
+}
+header ul li:last-child{
+	border:none;
+	margin-right: 0px;
+	padding-right: 0px;
+}
+header ul li a{
+	color: white;
+	font-size: 14px;
+
+
+	
+}
+header ul li a:hover{
+	color: white;
+}
+nav{
+	display: flex;
+	width: 1024px;
+	margin: 0 auto;
+	text-transform: uppercase;
+	padding-top: 30px;
+	
+}
+#name {
+	font-size: 34px;
+	font-weight: bold;
+	color: black;
+}
+nav ul{
+	display: flex;
+	padding-left: 60px;
+}
+nav ul li{
+	padding-right: 25px;
+	margin-top: 17px; 
+}
+nav ul li:last-child{
+	padding-right: 0;
+	margin-top: 17px; 
+}
+nav ul li a{
+	color: black;
+	font-weight: bold;
+	font-size: 14px; 
+}
+nav ul li a:hover{
+	color: black;
+}
+nav span{
+	margin-top: 15px;
+	margin-left: 110px;
+	border:1px solid silver;
+	border-radius: 2px;
+	height: 30px;
+	position: relative;
+}
+#kupon{
+	margin-left: 15px;
+}
+#basket{
+	margin-right: 5px;
+}
+nav img{
+	height: 35px;
+	width: 35px;
+	margin: 10px 5px;
+}
+#app{
+	width: 1024px;
+	margin: 0 auto;
+}
+#app {
+	width: 1024px;
+	margin: 0 auto;
+}
+#featpro {
+	font-size: 24px;
+}
+#cart{
+	padding-top: 15px;
+	font-weight: bold;
+	font-size: 14px;
+}
+#basketrel{
+	position: relative;
+}
+#basketabs{
+	position: absolute;
+	left: 150px;
+	outline: none;
+
+}
+.card{
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.search{
+	background: url(../img/search.png);
+ 	background-repeat: no-repeat;
+ 	width: 20px;
+ 	height: 20px;
+ 	border: none;
+ 	position: absolute;
+ 	left: 150px;
+ 	top: 6px;
+
+}
+.lupa{
+	border: none;
+	width: 170px;
+	padding-left: 5px;
+	outline: none;
+}
+
+footer{
+	background: #2d4c5a;
+	height: 65px;
+
+
+}
+#bottom-menu{
+	padding-top: 21px;
+	width: 1024px;
+	display: flex;
+	margin: 0 auto;
+	color: #a6dbef;
+	font-size: 13px;
+}
+footer ul{
+	display: flex;
+	margin-left: 200px;
+	font-size: 13px;
+}
+footer ul li{
+	margin-right: 15px;
+	padding-right: 15px;
+	border-right: 1px solid #a6dbef;
+}
+footer ul li:last-child{
+	border:none;
+	margin-right: 0px;
+	padding-right: 0px;
+}
+footer ul li a{
+	color: #a6dbef;
+	
+}
+footer ul li a:hover{
+	color: #a6dbef;
+}
